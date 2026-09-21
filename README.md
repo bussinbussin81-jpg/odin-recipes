@@ -1,0 +1,1 @@
+My current project in the odin project foundations course is to make a simple html recipes page i will demonstrate my ability to add links images and text onto a webpage and for all them to work properly.
